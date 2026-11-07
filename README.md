@@ -5,8 +5,9 @@ Repositori untuk File-File Responsi Praktikum Pemrograman Berorientasi Objek tah
 - NIM: H1D025138
 - Shift KRS: G
 - Shift Baru: F
+- Tema Proyek: Otomotif (Digit Terakhir NIM: 8)
 
-# Cara Run Proyek Responsi di Terminal
+# Cara Compile dan Run Proyek Responsi di Terminal
 1. Download Proyek dan Simpan di Documents Lalu Buka Folder AlTriazaMuhammadRamadhan_H1D025138_Shift-KRS-G_Shift-Baru-F_Responsi, Kemudian Folder Responsi, Kemudian Klik Kanan Folder src dan Klik Kiri pada "Copy as Path" atau "Copy Path"
 2. Pastikan ada Java Development Kit terinstal
 3. Buka Terminal Command Prompt sebagai Administrator
@@ -15,3 +16,8 @@ Repositori untuk File-File Responsi Praktikum Pemrograman Berorientasi Objek tah
 6. Jika Sudah Ada File Berformat .class Maka ke Terminal Untuk Menjalankan java main Lalu Tekan Enter
 
 # Hasil Output/Luaran Program
+1. Menggunakan IntelliJ IDEA
+![Screenshot IntelliJ IDEA](outputIntellijIDEA.png)
+
+2. Menggunakan Terminal Command Prompt
+![Screenshot Terminal Command Prompt](outputTerminalCommandPrompt.png)
