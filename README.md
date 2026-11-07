@@ -17,7 +17,7 @@ Repositori untuk File-File Responsi Praktikum Pemrograman Berorientasi Objek tah
 
 # Hasil Output/Luaran Program
 1. Menggunakan IntelliJ IDEA
-![Screenshot IntelliJ IDEA](outputIntellijIDEA.png)
+![Screenshot IntelliJ IDEA](outputIntelliJIDEA.png)
 
 2. Menggunakan Terminal Command Prompt
 ![Screenshot Terminal Command Prompt](outputTerminalCommandPrompt.png)
