@@ -8,7 +8,7 @@ Repositori untuk File-File Responsi Praktikum Pemrograman Berorientasi Objek tah
 - Tema Proyek: Otomotif (Digit Terakhir NIM: 8)
 
 # Cara Compile dan Run Proyek Responsi di Terminal
-1. Download Proyek dan Simpan di Documents Lalu Buka Folder AlTriazaMuhammadRamadhan_H1D025138_Shift-KRS-G_Shift-Baru-F_Responsi, Kemudian Folder Responsi, Kemudian Klik Kanan Folder src dan Klik Kiri pada "Copy as Path" atau "Copy Path"
+1. Download Proyek dan Buka/Ekstrak, Jika Sudah Lalu Buka Folder AlTriazaMuhammadRamadhan_H1D025138_Shift-KRS-G_Shift-Baru-F_Responsi, Kemudian Folder Responsi, Kemudian Klik Kanan Folder src dan Klik Kiri pada "Copy as Path" atau "Copy Path"
 2. Pastikan ada Java Development Kit terinstal
 3. Buka Terminal Command Prompt sebagai Administrator
 4. Di Terminal, Ketik cd Lalu Paste Path yang Sudah Di-Copy Tadi dan Tekan Enter
